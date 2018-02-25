@@ -1,0 +1,8 @@
+.root {
+    display: flex;
+    width: 14.3%;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #fff;
+}
